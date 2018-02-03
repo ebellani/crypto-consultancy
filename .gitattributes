@@ -1,1 +1,2 @@
 core.org filter=git-crypt diff=git-crypt
+accounting.ledger filter=git-crypt diff=git-crypt
